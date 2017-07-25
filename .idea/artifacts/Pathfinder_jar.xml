@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pathfinder:jar">
+    <output-path>$PROJECT_DIR$/jar-builds/Pathfinder_0</output-path>
+    <root id="archive" name="Pathfinder.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/man/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Pathfinder" />
+    </root>
+  </artifact>
+</component>

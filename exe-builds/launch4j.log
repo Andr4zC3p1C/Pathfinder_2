@@ -1,0 +1,27 @@
+
+
+Version:	3.8
+CmdLine:	H:\Projects\Java\Pathfinder\exe-builds\Pathfinder.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\Projects\Java\Pathfinder\exe-builds\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_121
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8.0_121
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_55
+Ignore:		1.7.0_55
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_73
+Check launcher:	C:\Program Files\Java\jdk1.8.0_73\jre\bin\javaw.exe (OK)
+Match:		1.8.0_73
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jdk1.8.0_73\jre\bin\javaw.exe
+Launcher args:	-jar "H:\Projects\Java\Pathfinder\exe-builds\Pathfinder.exe"
+Args length:	60/32768 chars
+Exit code:	0
